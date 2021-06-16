@@ -2,3 +2,11 @@ Python Tutorial
 
 https://docs.python.org/3.9/tutorial/index.html
 
+HowTo API Web App
+
+
+https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
+
+https://opensource.com/article/19/11/python-web-api-flask
+
+
