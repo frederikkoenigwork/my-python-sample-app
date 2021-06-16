@@ -10,3 +10,7 @@ https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
 https://opensource.com/article/19/11/python-web-api-flask
 
 
+Python GET JSON HTTP DATA
+
+https://www.geeksforgeeks.org/get-post-requests-using-python/
+
