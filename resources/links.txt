@@ -14,3 +14,12 @@ Python GET JSON HTTP DATA
 
 https://www.geeksforgeeks.org/get-post-requests-using-python/
 
+So much about flask
+https://flask.palletsprojects.com/en/2.0.x/api/
+
+VIDEOS 2 BRAIN
+
+Python Crashkurs für Programmierer in einem Video [DEUTSCH/GERMAN]
+
+https://www.youtube.com/watch?v=ikuyDZNsbNk
+
