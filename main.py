@@ -31,3 +31,15 @@ listeL = [1,2,3,45,6,4,3,6,8,6,3,3]
 listeL.append(33333)
 
 print(listeL)
+
+# This is a comment?
+
+"""asdkjf ölsaföl
+sadkf jsaöld jfösa
+
+askdf jöldsakf j
+
+
+Multi Line Comment!
+
+"""
