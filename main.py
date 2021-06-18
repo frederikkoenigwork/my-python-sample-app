@@ -28,9 +28,17 @@ while False:
 
 listeL = [1,2,3,45,6,4,3,6,8,6,3,3]
 
+setS = set(listeL)
+
+
+
 listeL.append(33333)
 
 print(listeL)
+
+
+print("Set S:")
+print(setSf)
 
 # This is a comment?
 
