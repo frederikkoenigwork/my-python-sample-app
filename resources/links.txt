@@ -23,3 +23,14 @@ Python Crashkurs für Programmierer in einem Video [DEUTSCH/GERMAN]
 
 https://www.youtube.com/watch?v=ikuyDZNsbNk
 
+
+IDE
+
+PyCharm
+
+https://www.jetbrains.com/de-de/pycharm/download/#section=windows
+
+https://www.jetbrains.com/de-de/pycharm/features/editions_comparison_matrix.html
+
+
+
