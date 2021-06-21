@@ -46,3 +46,7 @@ https://www.youtube.com/watch?v=t8pPdKYpowI&t=9019s
 Python Project for Practicing
 
 https://towardsdatascience.com/6-python-projects-you-can-finish-in-a-weekend-f53552279cc
+
+Sample Code
+
+https://gitlab.com/nanuchi/python-programming.git
